@@ -1,0 +1,25 @@
+{
+  "todo": [
+    {
+      "activity": "Matematika Infor",
+      "status": false,
+      "id": 1
+    },
+    {
+      "activity": "Push React",
+      "status": false,
+      "id": 2
+    },
+    {
+      "activity": "Nonton Hunter x Hunter",
+      "status": true,
+      "id": 3
+    },
+    {
+      "activity": "CTF AN",
+      "status": false,
+      "id": 4
+    }
+  ],
+  "users": []
+}
