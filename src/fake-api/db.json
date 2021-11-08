@@ -19,6 +19,26 @@
       "activity": "CTF AN",
       "status": false,
       "id": 4
+    },
+    {
+      "activity": "tidur",
+      "status": false,
+      "id": 5
+    },
+    {
+      "activity": "Kuliah",
+      "status": false,
+      "id": 6
+    },
+    {
+      "activity": "afaffa",
+      "status": false,
+      "id": 7
+    },
+    {
+      "activity": "afaffa",
+      "status": false,
+      "id": 8
     }
   ],
   "users": []
